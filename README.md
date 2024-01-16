@@ -16,10 +16,14 @@ Add-in Menu on Mocrosoft Excel
 
 - Upload - Select a folder and copy a Worksheet to system.
 
-  [![Video Preview](images/Machine%20&%20Equipment%20Integration%20System%20-%20Step%201%20Upload.gif)](https://drive.google.com/file/d/1zTLiEedxNGHMkGRO6m4c78IkjpiFwcu6/view?usp=sharing)
+  [![Video Preview](images/Machine%20&%20Equipment%20Integration%20System%20-%20Step%201%20Upload.gif)]
+  
+  Click [here](https://drive.google.com/file/d/1zTLiEedxNGHMkGRO6m4c78IkjpiFwcu6/view?usp=sharing) to watch the full video.
 
 - Re-Calculate - If you're editing a worksheet. You can use this button to calculate again.
 
 - New fixed asset in the month & SSOP Progression : Incomplete - Generate email body in Outlook based on user condition.
 
-  [![Video Preview](images/Machine%20&%20Equipment%20Integration%20System%20-%20Step%202%20Generate%20mail%20.gif)](https://drive.google.com/file/d/1i-8WqcNrVd593dw5A_73c_eU_Q0DTtOT/view?usp=sharing)
+  [![Video Preview](images/Machine%20&%20Equipment%20Integration%20System%20-%20Step%202%20Generate%20mail%20.gif)]
+  
+  Click [here](https://drive.google.com/file/d/1i-8WqcNrVd593dw5A_73c_eU_Q0DTtOT/view?usp=sharing) to watch the full video.
