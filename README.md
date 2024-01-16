@@ -1,5 +1,10 @@
 # PRESENTATION PROJECT "Machine Equipment Integration System"
 
+### My Freelance Project with VSTO Development
+
+Welcome to my freelance project! This project was initiated based on user requests, and I've chosen to implement it using VSTO (Visual Studio Tools for Office).
+
+
 ### VSTO Integration
 
 Our project leverages VSTO (Visual Studio Tools for Office), a technology by Microsoft that enhances the integration of our solution with Microsoft Office applications. VSTO allows us to seamlessly extend and customize Office functionalities, providing users with a more robust and tailored experience.
