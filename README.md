@@ -1,4 +1,4 @@
-# PRESENTATION PROJECT "Machine Equipment Integration System"
+# Machine Equipment Integration System
 
 ### My Freelance Project with VSTO Development
 
